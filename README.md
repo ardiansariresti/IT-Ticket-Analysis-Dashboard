@@ -22,6 +22,9 @@ The main objectives of this project are to:
 - **Tickets by Job Classification**: Compare tickets by White Collar, Blue Collar, and Other job types.  
 - **Tickets by Gender & Filed Against**: Donut charts showing distribution by gender and issue category.  
 - **Insights Section**: Key findings summarized for quick understanding.
+- **Interactive Tooltips**: Show additional information when hovering over charts.  
+- **Drill-through / Detailed Pages**: Users can explore tickets by department, severity, or priority in depth by opening the detailed page in Power BI Desktop.
+
 
 ---
 
