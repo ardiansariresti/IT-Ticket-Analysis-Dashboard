@@ -24,7 +24,7 @@ The main objectives of this project are to:
 - **Insights Section**: Key findings summarized for quick understanding.
 - **Interactive Tooltips**: Show additional information when hovering over charts.  
 - **Drill-through / Detailed Pages**: Users can explore tickets by department, severity, or priority in depth by opening the detailed page in Power BI Desktop.
-
+- **Insights Section**: Key findings summarized for quick understanding.
 
 ---
 
@@ -44,9 +44,13 @@ This dashboard was created while following a Power BI course on Udemy. The tutor
 
 ---
 
-## Screenshot
+## Screenshots
 
+### Main Dashboard
 ![IT Ticket Analysis Dashboard](Dashboard.png)
+
+### Tooltip Example
+![Custom Tooltip Example](Tooltip.png)
 
 ---
 
@@ -54,7 +58,8 @@ This dashboard was created while following a Power BI course on Udemy. The tutor
 
 1. Open the Power BI Desktop file (`.pbix`) in Power BI Desktop.  
 2. Interact with slicers, filters, and visuals to explore ticket data.  
-3. Analyze trends by department, severity, priority, business unit, and user classification.
+3. Hover over charts to view **interactive tooltips** with additional insights.  
+4. Right-click on visuals to access the **drill-through page** for deeper analysis.  
 
 ---
 
